@@ -1,6 +1,5 @@
 include ':app'
 
-
 include ':build-tools:jaxp:jaxp-internal'
 include ':build-tools:jaxp:xml'
 include ':build-tools:build-logic'
